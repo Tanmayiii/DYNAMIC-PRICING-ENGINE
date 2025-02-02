@@ -28,7 +28,6 @@ An AI-powered dynamic pricing engine for e-commerce, leveraging machine learning
 ## 📊 Results & Performance
 - ✅ Achieved 90%+ prediction accuracy using XGBoost with hyperparameter tuning.
 - 📉 Plans to integrate SARIMA & GARCH for time-series price forecasting.
-- 🚀 Improved revenue by dynamically adjusting prices in real-time.
 
 ## 🎯 Future Enhancements
 - 🏗️ Implement SARIMA and GARCH models for better price trend analysis.
